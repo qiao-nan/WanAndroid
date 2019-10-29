@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+    <string name="wanandroid">WanAndroid</string>
+    <string name="collection">收藏</string>
+    <string name="setting">设置</string>
+    <string name="about">关于我们</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noimg">无图模式</string>
+    <string name="autocache">自动缓存</string>
+    <string name="total_setting">通用设置</string>
+    <string name="night">夜间模式</string>
+    <string name="other_setting">其它设置</string>
+    <string name="options">意见反馈</string>
+    <string name="clearcache">清除缓存</string>
+    <string name="hint_name">请输入用户名</string>
+    <string name="hint_pwd">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="or">或</string>
+    <string name="register">注册</string>
+</resources>
